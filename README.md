@@ -1,4 +1,4 @@
-<img src="./skadi2.gif" width='100' align="right"/>
+<img src="./slow-skadi2.gif" width='100' align="right"/>
 
 ### Hi there 👋
 
