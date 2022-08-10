@@ -7,3 +7,4 @@
   - 乾坤：比 iframe 更好的体验
   - Taro：移动端跨端开发
   - Rollup：打包组件
+  - Typescript：类型支持
